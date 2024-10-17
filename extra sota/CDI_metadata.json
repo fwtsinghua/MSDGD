@@ -1,0 +1,29 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "YearStart": {
+            "sdtype": "categorical"
+        },
+        "DataSource": {
+            "sdtype": "categorical"
+        },
+        "LocationID": {
+            "sdtype": "numerical"
+        },
+        "TopicID": {
+            "sdtype": "categorical"
+        },
+        "QuestionID": {
+            "sdtype": "categorical"
+        },
+        "DataValueTypeID": {
+            "sdtype": "categorical"
+        },
+        "StratificationCategoryID1": {
+            "sdtype": "categorical"
+        },
+        "StratificationID1": {
+            "sdtype": "categorical"
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "METADATA_SPEC_VERSION": "SINGLE_TABLE_V1",
+    "columns": {
+        "Time Interval 1": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 2": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 3": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 4": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 5": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 6": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 7": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 8": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 9": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 10": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 11": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 12": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 13": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 14": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 15": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 16": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 17": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 18": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 19": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 20": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 21": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 22": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 23": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 24": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 25": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 26": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 27": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 28": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 29": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 30": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 31": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 32": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 33": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 34": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 35": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 36": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 37": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 38": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 39": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 40": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 41": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 42": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 43": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 44": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 45": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 46": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 47": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 48": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 49": {
+            "sdtype": "numerical"
+        },
+        "Time Interval 50": {
+            "sdtype": "numerical"
+        }
+    }
+}
